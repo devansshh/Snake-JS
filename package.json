@@ -1,0 +1,23 @@
+{
+  "name": "snakejs",
+  "version": "1.0.0",
+  "description": "Vanilla JavaScript Snake Game",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devansshh/Snake-JS.git"
+  },
+  "author": "Devansh Shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devansshh/Snake-JS/issues"
+  },
+  "homepage": "https://devansshh.github.io/Snake-JS",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
